@@ -1,8 +1,8 @@
 # Project 1 Women In Data Science 2021
 
-This is the repo for [Project 01]. 
+This is the repo for Project 01. 
 
-This repo contains the source code of the Exploratory Data Analysis for the Kaggle website "Women in Data Science 2021" (https://www.kaggle.com/c/widsdatathon2021)
+This repo contains the source code of the Exploratory Data Analysis for the Kaggle website "Women in Data Science 2021"(https://www.kaggle.com/c/widsdatathon2021)
 regarding patients with Diabetes Mellitus in Intensive Care Unit.
 
 
