@@ -24,6 +24,8 @@ In the Jupyter Notebook we are answering the following questions:
  
 To answer them we are using the typical steps of a data science process: gather, assess, clean, analyze, model and visualize. The visualisation of the data is a continous point that is happening during all the steps of the process. 
 
+A Medium blog on this topic has been created at the following link: https://medium.com/@gaspap87/machine-learning-can-save-lives-99b243de7dba
+
 ## Creator
 
 * Paola Gasparini
